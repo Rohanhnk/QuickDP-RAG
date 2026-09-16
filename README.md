@@ -129,16 +129,6 @@ Open the notebooks in this order:
 
 ---
 
-## What to Learn Next
-
-- LangGraph and other graph-based agent orchestration frameworks
-- Structured outputs and agent state management
-- Agent / RAG evaluation
-- Deploying the workflow behind an API (FastAPI + Docker)
-- Extending beyond resumes/forms to contracts, invoices, or claims processing
-
----
-
 ## License
 
 MIT
